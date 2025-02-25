@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    "antfu.vite",
+    "oven.bun-vscode",
+    "vitest.explorer",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "biomejs.biome",
+    "usernamehw.errorlens",
+    "YoavBls.pretty-ts-errors",
+    "Catppuccin.catppuccin-vsc-icons",
+    "subframe7536.theme-maple",
+    "antfu.iconify",
+    "antfu.icons-carbon",
+    "naumovs.color-highlight",
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "antfu.open-in-github-button",
+    "mpontus.tab-cycle",
+    "mechatroner.rainbow-csv",
+    "SharzyL.cjk-word-handler",
+    "antfu.where-am-i",
+    "EditorConfig.EditorConfig",
+    "WakaTime.vscode-wakatime",
+    "antfu.slidev",
+    "bierner.github-markdown-preview",
+    "saoudrizwan.claude-dev",
+    "Continue.continue",
+    "MattFlower.aider"
+  ]
+}
